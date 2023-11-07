@@ -1,0 +1,15 @@
+package com.student;
+
+import java.util.Scanner;
+
+public class StudentGradeCalculator {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Enter the Marks of Subject-1");
+		int sub1 = sc.nextInt();
+
+	}
+
+}
